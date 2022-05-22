@@ -1,0 +1,15 @@
+form{ 
+    padding: 50px 500px;
+  }
+  
+  .huruf{
+    text-align: justify;
+  }
+  
+  input{
+    display: block;
+    width: 300px;
+    padding: 12px;
+    border-radius: 5px;
+  }
+  

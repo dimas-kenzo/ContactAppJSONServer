@@ -1,0 +1,19 @@
+{
+  "kontaks": [
+    {
+      "nama": "Ani Ruwanti",
+      "nohp": "0856 4389 7216",
+      "id": 5
+    },
+    {
+      "nama": "Kenan Quinno",
+      "nohp": "1234 5678 90",
+      "id": 6
+    },
+    {
+      "nama": "Dimas Kenzo",
+      "nohp": "0857 4315 4138",
+      "id": 7
+    }
+  ]
+}
